@@ -1,0 +1,4 @@
+*.suo
+SlamScoreClient/App.config
+SlamScoreClient/bin
+SlamScoreClient/obj
